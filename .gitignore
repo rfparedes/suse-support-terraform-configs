@@ -3,3 +3,4 @@
 *.tfstate
 *.terraform*
 *authfiles*
+*vscode*
