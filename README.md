@@ -1,0 +1,1 @@
+# suse-support-terraform-configs
